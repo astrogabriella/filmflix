@@ -1,0 +1,9 @@
+----------------------------
+Main Options Menu
+1. List all available films
+2. Add a film
+3. Amend a film
+4. Delete a film
+5. View the Film Reports submenu
+6. Exit
+----------------------------

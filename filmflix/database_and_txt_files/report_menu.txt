@@ -1,0 +1,9 @@
+----------------------------
+The Film Reports Menu options:
+1. List all available films
+2. Search for a film
+3. Search all films by genre
+4. Search all films by year
+5. Search all films by rating
+6. Exit Film Report Menu
+----------------------------
