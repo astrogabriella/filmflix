@@ -1,4 +1,4 @@
-#filmflix
+filmflix
 Begin by launching the program using main_menu.py.
 
 Main Options Menu:
